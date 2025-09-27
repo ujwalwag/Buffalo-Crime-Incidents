@@ -76,4 +76,4 @@ Five key insights:
 
 
   
-  📄 Read the full project report [here](a0_part2_50560587.pdf).
+  📄 Read the full project report [[here](https://github.com/ujwalwag/Buffalo-Crime-Incidents/blob/main/docs/a0_part2_50560587.pdf)
