@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Utilities
+tqdm
+jupyter
