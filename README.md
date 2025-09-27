@@ -70,7 +70,8 @@ Five key insights:
 
 ├── data/ # Raw & processed datasets
 ├── notebooks/ # Jupyter notebooks 
-├── results/ # Saved models, plots, metrics
+├── results/ # Saved models
+├── docs/ # Report
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
