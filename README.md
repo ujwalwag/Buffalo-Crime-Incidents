@@ -69,14 +69,11 @@ Five key insights:
 ## 📂 Repository Structure
 
 ├── data/ # Raw & processed datasets
-├── notebooks/ # Jupyter notebooks for EDA & preprocessing
+├── notebooks/ # Jupyter notebooks 
 ├── results/ # Saved models, plots, metrics
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
-## 🚀 How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/<your-username>/buffalo-crime-classification.git
-   cd buffalo-crime-classification
+  
+  📄 Read the full project report [here](a0_part2_50560587.pdf).
